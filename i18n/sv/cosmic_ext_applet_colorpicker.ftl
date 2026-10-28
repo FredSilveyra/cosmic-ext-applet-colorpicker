@@ -1,0 +1,9 @@
+app-title = Färgväljare
+app-comment = Färgväljarapplet för COSMIC™-skrivbordet
+app-keywords = färg;väljare;färg;pipett;hex;palett;
+about = Om
+view = Visa
+welcome = Välkommen till COSMIC!✨
+page-id = Sida { $num }
+git-description = Git commit {$hash} på {$date}
+example-row = Exempelrad
